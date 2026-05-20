@@ -32,7 +32,7 @@ blueprint:
           selector:
             device:
               filter:
-                - integration: sunenergyxt
+                - integration: sunenergyxt_test
 
         full_battery_mode:
           name: Full-battery behavior

@@ -22,4 +22,4 @@ https://cdn.jsdelivr.net/gh/yanqr213/500-blueprint-test@main/blueprints/automati
 
 - Blueprint name: `SunEnergyXT 500 Series - Plugin Test Zero Feed-in`
 - The control logic is copied from the current meter-type setup blueprint in `yanqr213/500-blueprint`.
-- The SunEnergyXT device selector still expects the Home Assistant integration domain `sunenergyxt`, so it is compatible with the plugin repo that keeps `domain: sunenergyxt`.
+- The SunEnergyXT device selector still expects the Home Assistant integration domain `sunenergyxt_test`, so it is compatible with the isolated test plugin repo.
